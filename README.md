@@ -9,3 +9,5 @@ msg.c - task #2 (System V IPC messages);
 producer.c, consumer.c - task #3 (System V IPC semaphores & shared memory);
 
 signal.c - task #4 (signals);
+
+server.c - task #5 (synchronous I/O multiplexing using select syscall);
